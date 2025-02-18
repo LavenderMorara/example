@@ -1,6 +1,21 @@
-*{color:blueviolet  }
+*{
+    color:blueviolet;
+    text-align:left;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
 h1{color:blue  }
 h3{color:olive  }
+ul>li{
+    color: navy;
+    font-size: 20px;
+    list-style-type: square;
+}
+ol>li{
+    color: crimson;
+    font-size: 20px;
+    list-style-type: upper-roman;
+}
 img{
     height: 500px;
     width: 500px;
